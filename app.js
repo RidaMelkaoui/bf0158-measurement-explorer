@@ -676,6 +676,18 @@
     }, 130);
   });
 
+  window.BF0158_EXPLORER = Object.freeze({
+    getExportSnapshot() {
+      return {
+        selectedId: state.selectedId,
+        selectedCharacteristic: currentCharacteristic().displayName,
+        partNumber: state.partNumber,
+        dateCode: state.dateCode,
+        sampleIndexes: filteredSamples().map((sample) => sample.index),
+      };
+    },
+  });
+
   setupFilters();
   setupCharacteristicSelect();
   setupChartControls();
