@@ -609,9 +609,9 @@
           ...samples.map((sample) => {
             const row = statusMap.get(sample.index);
             const oos = isOos(row);
-            const tooltip = `${characteristic.displayName} Â· ${sample.shortLabel} Â· ${fmtActual(
+            const tooltip = `${characteristic.displayName} · ${sample.shortLabel} · ${fmtActual(
               row.value,
-            )} Â· ${row.status}`;
+            )} · ${row.status}`;
             return `<div
               class="matrix-cell${oos ? " is-oos" : ""}"
               tabindex="0"
@@ -681,4 +681,3 @@
   setupChartControls();
   renderAll();
 })();
-
