@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#ffffff" />
+    <meta
+      name="description"
+      content="Interactive dimensional measurement explorer for Mounting Spring BF0158, sourced only from CLIPSP1.xlsx."
+    />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cpath fill='none' stroke='%230a1d4d' stroke-width='6' d='M18 7h28l11 25-11 25H18L7 32 18 7Z'/%3E%3Cpath fill='none' stroke='%231557e8' stroke-width='5' d='M24 20v24M40 20v24M20 32h24'/%3E%3C/svg%3E"
+    />
+    <title>BF0158 Measurement Explorer</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#measurement-workspace">Skip to measurement chart</a>
+
+    <header class="site-header">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 40 40">
+            <path d="M11 7h18l7 13-7 13H11L4 20 11 7Z" />
+            <path d="M15 13v14M25 13v14M12 20h16" />
+          </svg>
+        </div>
+        <div>
+          <div class="brand-title">BF0158 Measurement Explorer</div>
+          <div class="brand-subtitle">
+            Mounting Spring <span aria-hidden="true">Â·</span>
+            <span id="header-sample-count">51 samples</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="header-filters" aria-label="Dataset filters">
+        <label class="select-control">
+          <span class="sr-only">Part group</span>
+          <select id="part-filter">
+            <option value="all">All part groups</option>
+          </select>
+        </label>
+        <label class="select-control">
+          <span class="sr-only">Date</span>
+          <select id="date-filter">
+            <option value="all">All dates</option>
+          </select>
+        </label>
+        <button
+          class="filter-toggle"
+          id="mobile-filter-toggle"
+          type="button"
+          aria-controls="mobile-filters"
+          aria-expanded="false"
+          aria-label="Show filters"
+        >
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M4 5h16l-6.5 7.2V19l-3 1v-7.8L4 5Z" />
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <div class="mobile-filters" id="mobile-filters" hidden></div>
+
+    <main>
+      <section class="kpi-strip" aria-label="Measurement overview">
+        <article class="kpi">
+          <div class="kpi-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24">
+              <path d="M5 19v-7h3v7H5Zm6 0V5h3v14h-3Zm6 0V9h3v10h-3Z" />
+            </svg>
+          </div>
+          <div>
+            <strong id="kpi-samples">51</strong>
+            <span>Samples</span>
+          </div>
+        </article>
+        <article class="kpi">
+          <div class="kpi-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24">
+              <path d="M8 3 6 21M18 3l-2 18M3 9h18M2 15h18" />
+            </svg>
+          </div>
+          <div>
+            <strong id="kpi-characteristics">16</strong>
+            <span>Characteristics</span>
+          </div>
+        </article>
+        <article class="kpi">
+          <div class="kpi-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24">
+              <circle cx="12" cy="12" r="9" />
+              <path d="m8 12 2.6 2.7L16.5 9" />
+            </svg>
+          </div>
+          <div>
+            <strong id="kpi-pass-rate">93.8%</strong>
+            <span>Measurements in spec</span>
+          </div>
+        </article>
+        <article class="kpi kpi-alert">
+          <div class="kpi-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24">
+              <path d="M12 3 2.8 20h18.4L12 3Z" />
+              <path d="M12 9v5M12 17.4v.1" />
+            </svg>
+          </div>
+          <div>
+            <strong id="kpi-oos">51</strong>
+            <span>Out of tolerance</span>
+          </div>
+        </article>
+      </section>
+
+      <section class="mobile-characteristic-control" aria-label="Characteristic selector">
+        <label for="mobile-characteristic-select">Characteristic</label>
+        <select id="mobile-characteristic-select"></select>
+      </section>
+
+      <section class="explorer-shell">
+        <aside class="characteristic-rail" aria-label="Characteristics">
+          <div class="rail-heading">
+            <span>Characteristics</span>
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M4 7h10M18 7h2M4 17h3M11 17h9M15 4v6M8 14v6" />
+            </svg>
+          </div>
+          <div id="characteristic-list" class="characteristic-list"></div>
+        </aside>
+
+        <section class="measurement-workspace" id="measurement-workspace">
+          <div class="measurement-heading">
+            <div>
+              <div class="eyebrow">Characteristic profile</div>
+              <h1 id="chart-title">Mi hauteur 2</h1>
+            </div>
+            <div class="spec-chips" aria-label="Specification">
+              <div class="spec-chip">
+                <span>Nominal</span>
+                <strong id="spec-nominal">7.04</strong>
+              </div>
+              <div class="spec-chip">
+                <span>LSL</span>
+                <strong id="spec-lsl">6.64</strong>
+              </div>
+              <div class="spec-chip">
+                <span>USL</span>
+                <strong id="spec-usl">7.44</strong>
+              </div>
+            </div>
+            <div class="chart-controls">
+              <div class="segmented" aria-label="Chart density">
+                <button type="button" data-mode="fit">Fit</button>
+                <button type="button" data-mode="detail" class="is-active">Detail</button>
+              </div>
+              <label class="switch-control">
+                <span>Values</span>
+                <input id="values-toggle" type="checkbox" checked />
+                <span class="switch" aria-hidden="true"></span>
+              </label>
+            </div>
+          </div>
+
+          <div class="chart-surface">
+            <div class="chart-legend" aria-hidden="true">
+              <span><i class="legend-dot in-spec"></i>In spec</span>
+              <span><i class="legend-dot out-spec"></i>Out of tolerance</span>
+              <span><i class="legend-line nominal"></i>Nominal</span>
+              <span><i class="legend-band"></i>Tolerance</span>
+            </div>
+            <div
+              class="measurement-chart-scroll"
+              id="measurement-chart-scroll"
+              tabindex="0"
+              aria-label="Scrollable measurement chart"
+            >
+              <div class="measurement-chart" id="measurement-chart"></div>
+            </div>
+            <div class="scroll-cue" id="scroll-cue" aria-hidden="true">
+              <span>Scroll for all samples</span>
+              <svg viewBox="0 0 24 24"><path d="M5 12h14M14 7l5 5-5 5" /></svg>
+            </div>
+            <div class="chart-tooltip" id="chart-tooltip" role="status" hidden></div>
+          </div>
+        </section>
+      </section>
+
+      <section class="support-grid" aria-label="Supporting visuals">
+        <article class="support-panel">
+          <div class="panel-heading">
+            <div>
+              <div class="eyebrow">All 16 tests</div>
+              <h2>Conformance by characteristic</h2>
+            </div>
+            <span class="panel-measure">Pass rate (%)</span>
+          </div>
+          <div id="conformance-chart" class="conformance-chart"></div>
+        </article>
+
+        <article class="support-panel map-panel">
+          <div class="panel-heading">
+            <div>
+              <div class="eyebrow">Sample Ã— characteristic</div>
+              <h2>Out-of-tolerance map</h2>
+            </div>
+            <div class="compact-legend" aria-hidden="true">
+              <span><i class="legend-dot in-spec"></i>In spec</span>
+              <span><i class="legend-dot out-spec"></i>Out of tolerance</span>
+            </div>
+          </div>
+          <div class="matrix-scroll" id="matrix-scroll" tabindex="0">
+            <div id="oos-matrix" class="oos-matrix"></div>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <footer>
+      <span>Source</span>
+      <span aria-hidden="true">Â·</span>
+      <strong>CLIPSP1.xlsx</strong>
+      <span class="footer-spacer"></span>
+      <span>Sheet</span>
+      <span aria-hidden="true">Â·</span>
+      <strong>modif 3</strong>
+    </footer>
+
+    <script src="./data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
+
