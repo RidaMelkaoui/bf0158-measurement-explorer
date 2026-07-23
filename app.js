@@ -264,11 +264,10 @@
     if (!show) return "";
     const label = sample.sampleLabel;
     if (state.mode === "detail") {
+      const labelX = index === 0 ? x + 16 : x;
       return `
-        <text class="chart-x-label" x="${x}" y="${baseline}" text-anchor="${
-          index === 0 ? "start" : "end"
-        }"
-          transform="rotate(-52 ${x} ${baseline})">
+        <text class="chart-x-label" x="${labelX}" y="${baseline}" text-anchor="end"
+          transform="rotate(-52 ${labelX} ${baseline})">
           ${escapeHtml(`${label} ${sample.dateCode}`)}
         </text>
       `;
