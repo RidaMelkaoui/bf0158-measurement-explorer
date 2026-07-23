@@ -163,6 +163,64 @@ svg {
   gap: 10px;
 }
 
+.export-button {
+  min-height: 38px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 0 14px;
+  color: #fff;
+  background: var(--blue-600);
+  border: 1px solid var(--blue-600);
+  border-radius: var(--radius-sm);
+  font-size: 11px;
+  font-weight: 720;
+  white-space: nowrap;
+  transition:
+    background 140ms ease,
+    border-color 140ms ease,
+    transform 140ms ease;
+}
+
+.export-button:hover {
+  background: var(--blue-700);
+  border-color: var(--blue-700);
+}
+
+.export-button:active {
+  transform: translateY(1px);
+}
+
+.export-button:disabled {
+  cursor: wait;
+  opacity: 0.72;
+}
+
+.export-button svg {
+  width: 17px;
+  height: 17px;
+  flex: 0 0 auto;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.export-button.is-busy svg {
+  animation: export-pulse 900ms ease-in-out infinite alternate;
+}
+
+@keyframes export-pulse {
+  from {
+    opacity: 0.35;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
 .select-control {
   position: relative;
 }
@@ -1083,6 +1141,25 @@ footer strong {
     display: none;
   }
 
+  .export-button {
+    width: 44px;
+    height: 44px;
+    min-height: 44px;
+    padding: 0;
+  }
+
+  .export-button-label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
   .filter-toggle {
     width: 44px;
     height: 44px;
@@ -1271,11 +1348,12 @@ footer strong {
 @media (max-width: 520px) {
   .site-header {
     min-height: 78px;
+    padding-inline: 14px;
   }
 
   .brand-title {
-    max-width: 230px;
-    font-size: 18px;
+    max-width: 185px;
+    font-size: 17px;
     line-height: 1.1;
   }
 
@@ -1370,6 +1448,7 @@ footer strong {
   }
 
   .filter-toggle,
+  .export-button,
   .chart-controls,
   .scroll-cue {
     display: none !important;
