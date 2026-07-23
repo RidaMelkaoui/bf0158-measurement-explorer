@@ -135,13 +135,6 @@
       font: fonts.regular,
       color: COLORS.ink,
     });
-    page.drawText("No measurement unit stated in source workbook", {
-      x: width - 192,
-      y: 18,
-      size: 6.5,
-      font: fonts.regular,
-      color: COLORS.ink,
-    });
     return page;
   }
 
