@@ -15,6 +15,5 @@ Open `index.html` through a local static web server. For a no-install alternativ
 - 51 samples
 - 16 characteristic test IDs
 - 816 measured values
-- No measurement unit was added because the workbook does not state one
 
 The two source rows named `Angle 3` are kept separate as Test 11 and Test 12.
