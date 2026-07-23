@@ -48,6 +48,14 @@
             <option value="all">All dates</option>
           </select>
         </label>
+        <button class="export-button" id="export-pdf" type="button">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M7 3h7l4 4v14H7V3Z" />
+            <path d="M14 3v5h5M9.5 13h5M9.5 16h5" />
+          </svg>
+          <span class="export-button-label">Export PDF</span>
+        </button>
+        <span class="sr-only" id="export-status" aria-live="polite"></span>
         <button
           class="filter-toggle"
           id="mobile-filter-toggle"
@@ -228,7 +236,9 @@
       <strong>modif 3</strong>
     </footer>
 
+    <script src="./pdf-lib.min.js"></script>
     <script src="./data.js"></script>
     <script src="./app.js"></script>
+    <script src="./pdf-export.js"></script>
   </body>
 </html>
