@@ -612,7 +612,7 @@ window.CLIPSP1_DATA = {
     {
       "id": "11",
       "name": "Angle 3",
-      "displayName": "Angle 3 Â· Test 11",
+      "displayName": "Angle 3 · Test 11",
       "nominal": 42,
       "tolMinus": -3,
       "tolPlus": 3,
@@ -631,7 +631,7 @@ window.CLIPSP1_DATA = {
     {
       "id": "12",
       "name": "Angle 3",
-      "displayName": "Angle 3 Â· Test 12",
+      "displayName": "Angle 3 · Test 12",
       "nominal": 42,
       "tolMinus": -3,
       "tolPlus": 3,
@@ -828,7 +828,3042 @@ window.CLIPSP1_DATA = {
         "status": "In spec"
       },
       {
- …14626 tokens truncated…},
+        "sampleIndex": 6,
+        "value": 44.699,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 7,
+        "value": 44.836,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 8,
+        "value": 44.955,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 9,
+        "value": 44.72,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 10,
+        "value": 44.653,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 11,
+        "value": 45.027,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 12,
+        "value": 44.985,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 13,
+        "value": 44.724,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 14,
+        "value": 44.967,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 15,
+        "value": 44.979,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 16,
+        "value": 44.85,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 17,
+        "value": 44.927,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 18,
+        "value": 44.867,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 19,
+        "value": 44.88,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 20,
+        "value": 44.803,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 21,
+        "value": 44.691,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 22,
+        "value": 44.788,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 23,
+        "value": 44.797,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 24,
+        "value": 44.775,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 25,
+        "value": 45.03,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 26,
+        "value": 44.722,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 27,
+        "value": 44.846,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 28,
+        "value": 44.898,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 29,
+        "value": 44.73,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 30,
+        "value": 44.75,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 31,
+        "value": 44.79,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 32,
+        "value": 44.804,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 33,
+        "value": 44.933,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 34,
+        "value": 44.786,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 35,
+        "value": 44.755,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 36,
+        "value": 44.795,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 37,
+        "value": 44.808,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 38,
+        "value": 44.731,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 39,
+        "value": 45.019,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 40,
+        "value": 44.64,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 41,
+        "value": 44.619,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 42,
+        "value": 44.686,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 43,
+        "value": 44.604,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 44,
+        "value": 44.75,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 45,
+        "value": 44.7,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 46,
+        "value": 44.75,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 47,
+        "value": 44.708,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 48,
+        "value": 44.585,
+        "status": "Below LSL"
+      },
+      {
+        "sampleIndex": 49,
+        "value": 44.928,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 50,
+        "value": 44.644,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 51,
+        "value": 44.766,
+        "status": "In spec"
+      }
+    ],
+    "2": [
+      {
+        "sampleIndex": 1,
+        "value": 0.327,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 2,
+        "value": 0.275,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 3,
+        "value": 0.199,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 4,
+        "value": 0.227,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 5,
+        "value": 0.351,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 6,
+        "value": 0.302,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 7,
+        "value": 0.274,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 8,
+        "value": 0.354,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 9,
+        "value": 0.494,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 10,
+        "value": 0.082,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 11,
+        "value": 0.207,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 12,
+        "value": 0.307,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 13,
+        "value": 0.214,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 14,
+        "value": 0.44,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 15,
+        "value": 0.284,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 16,
+        "value": 0.334,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 17,
+        "value": 0.318,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 18,
+        "value": 0.339,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 19,
+        "value": 0.194,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 20,
+        "value": 0.379,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 21,
+        "value": 0.174,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 22,
+        "value": 0.347,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 23,
+        "value": 0.504,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 24,
+        "value": 0.287,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 25,
+        "value": 0.145,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 26,
+        "value": 0.303,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 27,
+        "value": 0.07,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 28,
+        "value": 0.233,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 29,
+        "value": 0.188,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 30,
+        "value": 0.356,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 31,
+        "value": 0.197,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 32,
+        "value": 0.141,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 33,
+        "value": 0.101,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 34,
+        "value": 0.188,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 35,
+        "value": 0.171,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 36,
+        "value": 0.162,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 37,
+        "value": 0.212,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 38,
+        "value": 0.244,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 39,
+        "value": 0.217,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 40,
+        "value": 0.143,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 41,
+        "value": 0.432,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 42,
+        "value": 0.333,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 43,
+        "value": 0.334,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 44,
+        "value": 0.358,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 45,
+        "value": 0.347,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 46,
+        "value": 0.282,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 47,
+        "value": 0.35,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 48,
+        "value": 0.339,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 49,
+        "value": 0.336,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 50,
+        "value": 0.259,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 51,
+        "value": 0.35,
+        "status": "Above USL"
+      }
+    ],
+    "3": [
+      {
+        "sampleIndex": 1,
+        "value": 44.839,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 2,
+        "value": 44.978,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 3,
+        "value": 44.996,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 4,
+        "value": 44.973,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 5,
+        "value": 44.839,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 6,
+        "value": 44.793,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 7,
+        "value": 44.877,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 8,
+        "value": 44.682,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 9,
+        "value": 44.735,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 10,
+        "value": 44.854,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 11,
+        "value": 44.679,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 12,
+        "value": 44.927,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 13,
+        "value": 44.842,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 14,
+        "value": 44.874,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 15,
+        "value": 45.038,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 16,
+        "value": 44.972,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 17,
+        "value": 45.098,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 18,
+        "value": 44.877,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 19,
+        "value": 44.723,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 20,
+        "value": 44.891,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 21,
+        "value": 44.777,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 22,
+        "value": 44.889,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 23,
+        "value": 44.718,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 24,
+        "value": 44.884,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 25,
+        "value": 44.863,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 26,
+        "value": 44.769,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 27,
+        "value": 44.684,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 28,
+        "value": 44.952,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 29,
+        "value": 44.785,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 30,
+        "value": 44.8,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 31,
+        "value": 44.918,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 32,
+        "value": 44.787,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 33,
+        "value": 44.944,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 34,
+        "value": 44.732,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 35,
+        "value": 44.905,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 36,
+        "value": 44.913,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 37,
+        "value": 44.782,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 38,
+        "value": 44.923,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 39,
+        "value": 45.095,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 40,
+        "value": 44.989,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 41,
+        "value": 44.844,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 42,
+        "value": 44.584,
+        "status": "Below LSL"
+      },
+      {
+        "sampleIndex": 43,
+        "value": 44.696,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 44,
+        "value": 44.734,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 45,
+        "value": 44.585,
+        "status": "Below LSL"
+      },
+      {
+        "sampleIndex": 46,
+        "value": 44.739,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 47,
+        "value": 44.57,
+        "status": "Below LSL"
+      },
+      {
+        "sampleIndex": 48,
+        "value": 44.603,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 49,
+        "value": 44.964,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 50,
+        "value": 44.577,
+        "status": "Below LSL"
+      },
+      {
+        "sampleIndex": 51,
+        "value": 44.832,
+        "status": "In spec"
+      }
+    ],
+    "4": [
+      {
+        "sampleIndex": 1,
+        "value": 0.314,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 2,
+        "value": 0.38,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 3,
+        "value": 0.235,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 4,
+        "value": 0.183,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 5,
+        "value": 0.218,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 6,
+        "value": 0.23,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 7,
+        "value": 0.242,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 8,
+        "value": 0.389,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 9,
+        "value": 0.2,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 10,
+        "value": 0.202,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 11,
+        "value": 0.108,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 12,
+        "value": 0.263,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 13,
+        "value": 0.202,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 14,
+        "value": 0.234,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 15,
+        "value": 0.006,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 16,
+        "value": 0.273,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 17,
+        "value": 0.188,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 18,
+        "value": 0.199,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 19,
+        "value": 0.213,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 20,
+        "value": 0.437,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 21,
+        "value": 0.096,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 22,
+        "value": 0.375,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 23,
+        "value": 0.398,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 24,
+        "value": 0.257,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 25,
+        "value": 0.298,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 26,
+        "value": 0.207,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 27,
+        "value": 0.129,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 28,
+        "value": 0.335,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 29,
+        "value": 0.272,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 30,
+        "value": 0.215,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 31,
+        "value": 0.317,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 32,
+        "value": 0.291,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 33,
+        "value": 0.213,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 34,
+        "value": 0.331,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 35,
+        "value": 0.292,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 36,
+        "value": 0.32,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 37,
+        "value": 0.054,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 38,
+        "value": 0.217,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 39,
+        "value": 0.359,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 40,
+        "value": 0.172,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 41,
+        "value": 0.144,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 42,
+        "value": 0.398,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 43,
+        "value": 0.537,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 44,
+        "value": 0.477,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 45,
+        "value": 0.416,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 46,
+        "value": 0.374,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 47,
+        "value": 0.308,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 48,
+        "value": 0.392,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 49,
+        "value": 0.54,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 50,
+        "value": 0.485,
+        "status": "Above USL"
+      },
+      {
+        "sampleIndex": 51,
+        "value": 0.469,
+        "status": "Above USL"
+      }
+    ],
+    "9": [
+      {
+        "sampleIndex": 1,
+        "value": 42.972,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 2,
+        "value": 43.504,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 3,
+        "value": 43.503,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 4,
+        "value": 43.09,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 5,
+        "value": 42.532,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 6,
+        "value": 42.548,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 7,
+        "value": 43.471,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 8,
+        "value": 42.604,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 9,
+        "value": 42.196,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 10,
+        "value": 43.08,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 11,
+        "value": 41.867,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 12,
+        "value": 42.195,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 13,
+        "value": 42.487,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 14,
+        "value": 42.682,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 15,
+        "value": 42.445,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 16,
+        "value": 43.225,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 17,
+        "value": 43.161,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 18,
+        "value": 42.796,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 19,
+        "value": 41.75,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 20,
+        "value": 43.512,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 21,
+        "value": 42.154,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 22,
+        "value": 42.969,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 23,
+        "value": 42.619,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 24,
+        "value": 42.593,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 25,
+        "value": 42.769,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 26,
+        "value": 41.952,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 27,
+        "value": 41.983,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 28,
+        "value": 43.152,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 29,
+        "value": 42.443,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 30,
+        "value": 42.076,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 31,
+        "value": 43.065,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 32,
+        "value": 42.643,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 33,
+        "value": 43.001,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 34,
+        "value": 42.97,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 35,
+        "value": 43.267,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 36,
+        "value": 43.155,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 37,
+        "value": 41.611,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 38,
+        "value": 43.264,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 39,
+        "value": 43.823,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 40,
+        "value": 43.121,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 41,
+        "value": 43.002,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 42,
+        "value": 42.122,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 43,
+        "value": 42.915,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 44,
+        "value": 42.948,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 45,
+        "value": 42.334,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 46,
+        "value": 42.534,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 47,
+        "value": 41.769,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 48,
+        "value": 42.558,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 49,
+        "value": 43.693,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 50,
+        "value": 42.483,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 51,
+        "value": 43.334,
+        "status": "In spec"
+      }
+    ],
+    "10": [
+      {
+        "sampleIndex": 1,
+        "value": 41.756,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 2,
+        "value": 42.487,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 3,
+        "value": 42.822,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 4,
+        "value": 42.568,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 5,
+        "value": 42.05,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 6,
+        "value": 42.006,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 7,
+        "value": 42.151,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 8,
+        "value": 41.017,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 9,
+        "value": 41.531,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 10,
+        "value": 41.948,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 11,
+        "value": 41.821,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 12,
+        "value": 42.791,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 13,
+        "value": 42.225,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 14,
+        "value": 42.251,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 15,
+        "value": 43.87,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 16,
+        "value": 42.573,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 17,
+        "value": 43.374,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 18,
+        "value": 42.081,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 19,
+        "value": 42.091,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 20,
+        "value": 41.45,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 21,
+        "value": 41.996,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 22,
+        "value": 41.987,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 23,
+        "value": 40.906,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 24,
+        "value": 42.229,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 25,
+        "value": 41.806,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 26,
+        "value": 41.976,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 27,
+        "value": 41.526,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 28,
+        "value": 41.804,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 29,
+        "value": 41.429,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 30,
+        "value": 42.236,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 31,
+        "value": 42.067,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 32,
+        "value": 41.663,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 33,
+        "value": 42.235,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 34,
+        "value": 41.322,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 35,
+        "value": 42.067,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 36,
+        "value": 41.63,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 37,
+        "value": 42.223,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 38,
+        "value": 42.04,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 39,
+        "value": 42.641,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 40,
+        "value": 42.398,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 41,
+        "value": 41.71,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 42,
+        "value": 41.285,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 43,
+        "value": 41.056,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 44,
+        "value": 41.234,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 45,
+        "value": 40.478,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 46,
+        "value": 41.716,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 47,
+        "value": 41.296,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 48,
+        "value": 40.674,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 49,
+        "value": 42.288,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 50,
+        "value": 41.079,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 51,
+        "value": 41.588,
+        "status": "In spec"
+      }
+    ],
+    "11": [
+      {
+        "sampleIndex": 1,
+        "value": 41.846,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 2,
+        "value": 42.471,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 3,
+        "value": 42.51,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 4,
+        "value": 41.899,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 5,
+        "value": 41.829,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 6,
+        "value": 41.987,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 7,
+        "value": 42.83,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 8,
+        "value": 42.739,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 9,
+        "value": 40.978,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 10,
+        "value": 42.467,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 11,
+        "value": 42.782,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 12,
+        "value": 42.892,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 13,
+        "value": 41.742,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 14,
+        "value": 43.904,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 15,
+        "value": 43.828,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 16,
+        "value": 43.345,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 17,
+        "value": 43.643,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 18,
+        "value": 43.161,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 19,
+        "value": 42.314,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 20,
+        "value": 43.468,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 21,
+        "value": 42.387,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 22,
+        "value": 43.093,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 23,
+        "value": 43.843,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 24,
+        "value": 43,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 25,
+        "value": 42.718,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 26,
+        "value": 43.006,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 27,
+        "value": 43.229,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 28,
+        "value": 42.142,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 29,
+        "value": 42.531,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 30,
+        "value": 42.869,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 31,
+        "value": 42.272,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 32,
+        "value": 41.876,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 33,
+        "value": 42.814,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 34,
+        "value": 42.239,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 35,
+        "value": 42.506,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 36,
+        "value": 42.409,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 37,
+        "value": 43.105,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 38,
+        "value": 41.933,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 39,
+        "value": 42.622,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 40,
+        "value": 42.847,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 41,
+        "value": 41.018,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 42,
+        "value": 41.311,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 43,
+        "value": 41.398,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 44,
+        "value": 41.439,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 45,
+        "value": 41.589,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 46,
+        "value": 42.174,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 47,
+        "value": 41.302,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 48,
+        "value": 41.267,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 49,
+        "value": 42.318,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 50,
+        "value": 41.599,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 51,
+        "value": 41.513,
+        "status": "In spec"
+      }
+    ],
+    "12": [
+      {
+        "sampleIndex": 1,
+        "value": 43.564,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 2,
+        "value": 42.855,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 3,
+        "value": 42.797,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 4,
+        "value": 42.143,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 5,
+        "value": 42.925,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 6,
+        "value": 42.525,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 7,
+        "value": 42.968,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 8,
+        "value": 43.64,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 9,
+        "value": 43.437,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 10,
+        "value": 41.524,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 11,
+        "value": 43.851,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 12,
+        "value": 42.576,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 13,
+        "value": 42.448,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 14,
+        "value": 41.841,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 15,
+        "value": 42.013,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 16,
+        "value": 41.418,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 17,
+        "value": 41.97,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 18,
+        "value": 41.603,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 19,
+        "value": 42.723,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 20,
+        "value": 41.328,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 21,
+        "value": 41.283,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 22,
+        "value": 41.157,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 23,
+        "value": 40.258,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 24,
+        "value": 40.951,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 25,
+        "value": 42.637,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 26,
+        "value": 40.752,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 27,
+        "value": 41.391,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 28,
+        "value": 42.479,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 29,
+        "value": 41.079,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 30,
+        "value": 40.698,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 31,
+        "value": 41.786,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 32,
+        "value": 42.104,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 33,
+        "value": 42.223,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 34,
+        "value": 41.821,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 35,
+        "value": 41.813,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 36,
+        "value": 41.526,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 37,
+        "value": 41.199,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 38,
+        "value": 41.859,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 39,
+        "value": 42.946,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 40,
+        "value": 40.378,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 41,
+        "value": 41.936,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 42,
+        "value": 42.97,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 43,
+        "value": 42.076,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 44,
+        "value": 43.346,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 45,
+        "value": 42.658,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 46,
+        "value": 42.542,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 47,
+        "value": 43.185,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 48,
+        "value": 42.173,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 49,
+        "value": 43.5,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 50,
+        "value": 42.309,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 51,
+        "value": 43.448,
+        "status": "In spec"
+      }
+    ],
+    "13": [
+      {
+        "sampleIndex": 1,
+        "value": 10.208,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 2,
+        "value": 10.282,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 3,
+        "value": 10.322,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 4,
+        "value": 10.26,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 5,
+        "value": 10.263,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 6,
+        "value": 10.273,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 7,
+        "value": 10.311,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 8,
+        "value": 10.232,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 9,
+        "value": 10.174,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 10,
+        "value": 10.311,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 11,
+        "value": 10.265,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 12,
+        "value": 10.239,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 13,
+        "value": 10.22,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 14,
+        "value": 10.189,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 15,
+        "value": 10.278,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 16,
+        "value": 10.255,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 17,
+        "value": 10.261,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 18,
+        "value": 10.244,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 19,
+        "value": 10.199,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 20,
+        "value": 10.257,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 21,
+        "value": 10.279,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 22,
+        "value": 10.273,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 23,
+        "value": 10.277,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 24,
+        "value": 10.265,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 25,
+        "value": 10.266,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 26,
+        "value": 10.255,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 27,
+        "value": 10.271,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 28,
+        "value": 10.284,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 29,
+        "value": 10.259,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 30,
+        "value": 10.251,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 31,
+        "value": 10.209,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 32,
+        "value": 10.16,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 33,
+        "value": 10.24,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 34,
+        "value": 10.277,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 35,
+        "value": 10.284,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 36,
+        "value": 10.244,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 37,
+        "value": 10.267,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 38,
+        "value": 10.244,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 39,
+        "value": 10.281,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 40,
+        "value": 10.248,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 41,
+        "value": 10.201,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 42,
+        "value": 10.25,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 43,
+        "value": 10.27,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 44,
+        "value": 10.233,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 45,
+        "value": 10.248,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 46,
+        "value": 10.275,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 47,
+        "value": 10.224,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 48,
+        "value": 10.257,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 49,
+        "value": 10.255,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 50,
+        "value": 10.257,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 51,
+        "value": 10.207,
+        "status": "In spec"
+      }
+    ],
+    "14": [
+      {
+        "sampleIndex": 1,
+        "value": 10.329,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 2,
+        "value": 10.307,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 3,
+        "value": 10.298,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 4,
+        "value": 10.266,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 5,
+        "value": 10.307,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 6,
+        "value": 10.281,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 7,
+        "value": 10.3,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 8,
+        "value": 10.347,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 9,
+        "value": 10.327,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 10,
+        "value": 10.252,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 11,
+        "value": 10.321,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 12,
+        "value": 10.288,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 13,
+        "value": 10.307,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 14,
+        "value": 10.355,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 15,
+        "value": 10.293,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 16,
+        "value": 10.265,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 17,
+        "value": 10.26,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 18,
+        "value": 10.256,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 19,
+        "value": 10.301,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 20,
+        "value": 10.229,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 21,
+        "value": 10.225,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 22,
+        "value": 10.177,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 23,
+        "value": 10.227,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 24,
+        "value": 10.226,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 25,
+        "value": 10.304,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 26,
+        "value": 10.217,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 27,
+        "value": 10.249,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 28,
+        "value": 10.256,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 29,
+        "value": 10.197,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 30,
+        "value": 10.215,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 31,
+        "value": 10.303,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 32,
+        "value": 10.325,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 33,
+        "value": 10.32,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 34,
+        "value": 10.289,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 35,
+        "value": 10.285,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 36,
+        "value": 10.226,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 37,
+        "value": 10.252,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 38,
+        "value": 10.287,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 39,
+        "value": 10.319,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 40,
+        "value": 10.223,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 41,
+        "value": 10.299,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 42,
+        "value": 10.386,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 43,
+        "value": 10.335,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 44,
+        "value": 10.383,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 45,
+        "value": 10.359,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 46,
+        "value": 10.311,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 47,
+        "value": 10.341,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 48,
+        "value": 10.352,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 49,
+        "value": 10.372,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 50,
+        "value": 10.326,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 51,
+        "value": 10.371,
+        "status": "In spec"
+      }
+    ],
+    "15": [
+      {
+        "sampleIndex": 1,
+        "value": 10.304,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 2,
+        "value": 10.35,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 3,
+        "value": 10.357,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 4,
+        "value": 10.334,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 5,
+        "value": 10.322,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 6,
+        "value": 10.323,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 7,
+        "value": 10.355,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 8,
+        "value": 10.31,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 9,
+        "value": 10.294,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 10,
+        "value": 10.324,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 11,
+        "value": 10.337,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 12,
+        "value": 10.322,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 13,
+        "value": 10.302,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 14,
+        "value": 10.316,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 15,
+        "value": 10.358,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 16,
+        "value": 10.298,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 17,
+        "value": 10.308,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 18,
+        "value": 10.241,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 19,
+        "value": 10.288,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 20,
+        "value": 10.25,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 21,
+        "value": 10.242,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 22,
+        "value": 10.243,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 23,
+        "value": 10.286,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 24,
+        "value": 10.322,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 25,
+        "value": 10.297,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 26,
+        "value": 10.314,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 27,
+        "value": 10.303,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 28,
+        "value": 10.263,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 29,
+        "value": 10.237,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 30,
+        "value": 10.289,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 31,
+        "value": 10.313,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 32,
+        "value": 10.303,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 33,
+        "value": 10.34,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 34,
+        "value": 10.27,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 35,
+        "value": 10.307,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 36,
+        "value": 10.245,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 37,
+        "value": 10.286,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 38,
+        "value": 10.313,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 39,
+        "value": 10.302,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 40,
+        "value": 10.319,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 41,
+        "value": 10.281,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 42,
+        "value": 10.32,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 43,
+        "value": 10.323,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 44,
+        "value": 10.325,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 45,
+        "value": 10.306,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 46,
+        "value": 10.306,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 47,
+        "value": 10.302,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 48,
+        "value": 10.289,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 49,
+        "value": 10.369,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 50,
+        "value": 10.308,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 51,
+        "value": 10.331,
+        "status": "In spec"
+      }
+    ],
+    "16": [
+      {
+        "sampleIndex": 1,
+        "value": 10.212,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 2,
+        "value": 10.255,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 3,
+        "value": 10.279,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 4,
+        "value": 10.236,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 5,
+        "value": 10.238,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 6,
+        "value": 10.231,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 7,
+        "value": 10.24,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 8,
+        "value": 10.238,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 9,
+        "value": 10.169,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 10,
+        "value": 10.259,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 11,
+        "value": 10.188,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 12,
+        "value": 10.196,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 13,
+        "value": 10.217,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 14,
+        "value": 10.198,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 15,
+        "value": 10.214,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 16,
+        "value": 10.251,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 17,
+        "value": 10.236,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 18,
+        "value": 10.259,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 19,
+        "value": 10.212,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 20,
+        "value": 10.27,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 21,
+        "value": 10.239,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 22,
+        "value": 10.287,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 23,
+        "value": 10.204,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 24,
+        "value": 10.228,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 25,
+        "value": 10.24,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 26,
+        "value": 10.205,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 27,
+        "value": 10.206,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 28,
+        "value": 10.224,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 29,
+        "value": 10.249,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 30,
+        "value": 10.219,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 31,
+        "value": 10.252,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 32,
+        "value": 10.178,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 33,
+        "value": 10.207,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 34,
+        "value": 10.243,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 35,
+        "value": 10.261,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 36,
+        "value": 10.243,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 37,
+        "value": 10.187,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 38,
+        "value": 10.24,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 39,
+        "value": 10.252,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 40,
+        "value": 10.221,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 41,
+        "value": 10.236,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 42,
+        "value": 10.257,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 43,
+        "value": 10.289,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 44,
+        "value": 10.269,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 45,
+        "value": 10.255,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 46,
+        "value": 10.262,
+        "status": "In spec"
+      },
+      {
+        "sampleIndex": 47,
+        "value": 10.239,
+        "status": "In spec"
+      },
       {
         "sampleIndex": 48,
         "value": 10.284,
@@ -1880,4 +4915,3 @@ window.CLIPSP1_DATA = {
     ]
   }
 };
-
